@@ -122,17 +122,9 @@ python AstroDX_Skin_Developer_Tool.py
 ## 项目结构
 
 ```
-adxskin/
 ├── AstroDX_Skin_Developer_Tool.py   # 主工具（GUI）
-├── DXskin/                           # 基础皮肤示例
-├── DXskin_optimized/                 # 优化版皮肤示例
-├── SampleSkin/                       # 官方示例皮肤
-├── Sample Skin-Fumiko/               # 扩展示例皮肤
-├── dist/                             # 编译产物
-├── test_output/                      # 测试输出目录
 ├── README.md                         # English README
 ├── README_zh.md                      # 中文 README（本文件）
-└── skin.json                         # 皮肤配置模板
 ```
 
 ## 示例皮肤
