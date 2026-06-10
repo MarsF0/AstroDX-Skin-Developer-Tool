@@ -2,6 +2,8 @@
 
 # AstroDX Skin Developer Tool
 
+(Project Created with AI Assistance)
+
 A desktop tool for developing, debugging, and previewing custom skins for [AstroDX](https://github.com/499825099/AstroDX). It combines 9-slice stretching preview, skin.json validation/generation, batch color variant generation, PPU calculation, a color picker, and Touch sprite composition into a single application.
 
 ## Features
