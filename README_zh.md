@@ -102,6 +102,7 @@
 
 ```bash
 git clone AstroDX-Skin-Developer-Tool
+cd AstroDX-Skin-Developer-Tool
 ```
 
 2. 安装依赖（仅需 Pillow）：
