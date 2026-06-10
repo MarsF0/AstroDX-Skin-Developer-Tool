@@ -122,27 +122,10 @@ A multi-tab Tkinter window will open, with each tab corresponding to a feature m
 ## Project Structure
 
 ```
-adxskin/
 ├── AstroDX_Skin_Developer_Tool.py   # Main tool (GUI)
-├── DXskin/                           # Base skin example
-├── DXskin_optimized/                 # Optimized skin example
-├── SampleSkin/                       # Official sample skin
-├── Sample Skin-Fumiko/               # Extended sample skin
-├── dist/                             # Build artifacts
-├── test_output/                      # Test output directory
 ├── README.md                         # This file
 ├── README_zh.md                      # Chinese README
-└── skin.json                         # Skin config template
 ```
-
-## Sample Skins
-
-| Directory | Description |
-|-----------|-------------|
-| `DXskin/` | Base skin |
-| `DXskin_optimized/` | Optimized skin |
-| `SampleSkin/` | Official sample skin |
-| `Sample Skin-Fumiko/` | Extended sample (Fumiko variant) |
 
 ## Requirements
 
