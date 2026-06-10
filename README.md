@@ -101,8 +101,8 @@ Interface supports English / Chinese with one-click language toggle.
 1. Clone or download this repository:
 
 ```bash
-git clone <repo-url>
-cd adxskin
+git clone https://github.com/MarsF0/AstroDX-Skin-Developer-Tool
+cd AstroDX-Skin-Developer-Tool
 ```
 
 2. Install dependencies (only Pillow is required):
