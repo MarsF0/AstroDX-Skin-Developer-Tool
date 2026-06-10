@@ -2,6 +2,8 @@
 
 # AstroDX Skin Developer Tool
 
+（项目使用AI辅助创建）
+
 一款用于开发、调试和预览 [AstroDX](https://github.com/499825099/AstroDX) 自定义皮肤的桌面工具。整合了九宫格拉伸预览、skin.json 验证/生成、颜色变体批量生成、PPU 计算、调色盘以及 Touch 贴图合成等多项功能。
 
 ## 功能
