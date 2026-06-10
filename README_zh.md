@@ -101,8 +101,7 @@
 1. 克隆或下载本仓库：
 
 ```bash
-git clone <repo-url>
-cd adxskin
+git clone AstroDX-Skin-Developer-Tool
 ```
 
 2. 安装依赖（仅需 Pillow）：
