@@ -13,7 +13,7 @@ A desktop tool for developing, debugging, and previewing custom skins for [Astro
 Preview and export vertically stretched Hold sprites while keeping top/bottom edges intact:
 
 - Adjustable Top / Bottom region height (0–300 px)
-- Stretch scale from 0.1x to 10.0x
+- Stretch scale from 0x to 10.0x
 - Side-by-side real-time preview: original with slice lines vs stretched result
 - One-click PNG export
 
