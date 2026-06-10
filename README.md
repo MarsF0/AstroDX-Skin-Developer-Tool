@@ -19,20 +19,20 @@ Preview and export vertically stretched Hold sprites while keeping top/bottom ed
 
 ```
 ┌─────────────────────────────────────────────┐
-│  [Select Image]  filename (WxH)    [EN/中文] │
+│  [Select Image]  filename (WxH)             │
 ├──────────────────┬──────────────────────────┤
-│  Original + Slices│     Stretch Result       │
+│  Original + Slices│     Stretch Result      │
 │  ┌────────────┐  │  ┌────────────────────┐  │
-│  │  top region │  │  │  top (unchanged)    │  │
+│  │  top region │  │  │  top (unchanged)  │  │
 │  │────────────│  │  │────────────────────│  │
-│  │  middle     │  │  │  middle (stretched) │  │
+│  │  middle     │  │  │  middle (stretched)│ │
 │  │────────────│  │  │────────────────────│  │
-│  │  bottom     │  │  │  bottom (unchanged) │  │
+│  │  bottom     │  │  │  bottom (unchanged)  │
 │  └────────────┘  │  └────────────────────┘  │
 ├──────────────────┴──────────────────────────┤
 │  Top:     [====●=========] 90               │
 │  Bottom:  [====●=========] 90               │
-│  Scale:   [=====●========] 3.0x            │
+│  Scale:   [=====●========] 3.0x             │
 │  Stretchable: 120px (50.0%)  [Export...]    │
 └─────────────────────────────────────────────┘
 ```
