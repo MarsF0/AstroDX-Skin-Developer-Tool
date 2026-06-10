@@ -127,15 +127,6 @@ python AstroDX_Skin_Developer_Tool.py
 ├── README_zh.md                      # 中文 README（本文件）
 ```
 
-## 示例皮肤
-
-| 目录 | 说明 |
-|------|------|
-| `DXskin/` | 基础皮肤 |
-| `DXskin_optimized/` | 优化版皮肤 |
-| `SampleSkin/` | 官方示例皮肤 |
-| `Sample Skin-Fumiko/` | 扩展示例（Fumiko 变体） |
-
 ## 依赖
 
 - Python 3.10+
